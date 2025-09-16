@@ -14,7 +14,7 @@ Scalable design to support future integrations (Python, MongoDB, and front-end a
 
 Tech Stack
 
-Database: SQL (MySQL/Oracle/DB2)
+Database: SQL 
 
 Programming (Future Integration): Python (for backend connectivity and reporting automation)
 
